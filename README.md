@@ -1,9 +1,9 @@
 # KLD
 Keditw32 Language Definition files
 
-Following a [github hello world](https://guides.github.com/activities/hello-world/#branch) guide with a [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) cheatsheet: KEDIT is a text editor based on IBM's [XEDIT](https://en.wikipedia.org/wiki/XEDIT) using a subset of [Rexx](https://en.wikipedia.org/wiki/Rexx) known as KEXX as its macro language; roughly the same idea as [EMACS](https://en.wikipedia.org/wiki/Emacs) and [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language).
+Following a [github hello world](https://guides.github.com/activities/hello-world/#branch) guide with a [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) cheatsheet: KEDIT is a text editor based on IBM's [XEDIT](https://en.wikipedia.org/wiki/XEDIT) using a subset of [Rexx](https://en.wikipedia.org/wiki/Rexx) known as KEXX as its macro language; roughly the same idea as [EMACS](https://en.wikipedia.org/wiki/Emacs) and [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language)).
 
-Keditw32 is a version for Windows offering *syntax highlighting*; roughly the same idea as *pygments* for [python](https://en.wikipedia.org/wiki/Python_(programming_language). This repo contains my DIY language definition files:
+Keditw32 is a version for Windows offering *syntax highlighting*; roughly the same idea as *pygments* for [python](https://en.wikipedia.org/wiki/Python_(programming_language)). This repo contains my DIY language definition files:
 
 1. **batch** for Windows cmd.exe scripts, file extension **.cmd** 
 2. **config** for PC DOS **config.sys** files (historic)
