@@ -36,6 +36,7 @@
 *cmd                    (not listed, CMD is no internal command)
 *cmdextversion          (sub-keyword in extended IF CMDEXTVERSION ..)
  cmdextversion
+ color
  copy
  date
 *defined                (sub-keyword in extended IF DEFINED ..)
@@ -69,7 +70,7 @@
 *geq                    (sub-keyword in extended IF .. GEQ ..)
  geq
  goto
-*gtr                    (sub-keyword in extended IF .. GEQ ..)
+*gtr                    (sub-keyword in extended IF .. GTR ..)
  gtr
  if
 *in                     (sub-keyword of FOR .. IN ( .. ) DO ..)
