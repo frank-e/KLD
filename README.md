@@ -14,5 +14,5 @@ Keditw32 is a version for Windows offering *syntax highlighting*; roughly the sa
 
 CAVEAT: These language definition files may help in viewing or editing sources for the relevant languages with KEDIT, but are unsuited for syntax checks. Notably **lua.kld** covers only a subset of the LUA syntax, *some* levels of long comments or multi-line strings, not *all* (255) levels, this is a limitation of KEDIT's syntax highlighting.
 
-## Version 0.1 ##
-*Download [v0.1.zip](https://github.com/frank-e/KLD/archive/v0.1.zip "2019") or [tarball](https://github.com/frank-e/KLD/archive/v0.1.tar.gz "2019")*
+## Version 0.2 ##
+*Download [v0.2.zip](https://github.com/frank-e/KLD/archive/v0.2.zip "2019") or [tarball](https://github.com/frank-e/KLD/archive/v0.2.tar.gz "2020-03-22")*
