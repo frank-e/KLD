@@ -8,8 +8,10 @@ Keditw32 is a version for Windows offering *syntax highlighting*; roughly the sa
 1. **[batch](https://github.com/frank-e/KLD/blob/master/batch.kld "batch.kld")** for Windows `cmd.exe` scripts, file extension **.cmd**
 2. **[config](https://github.com/frank-e/KLD/blob/master/config.kld "config.kld")** for PC DOS `config.sys` files (historic)
 3. **[freeciv](https://github.com/frank-e/KLD/blob/master/freeciv.kld "freeciv.kld")** for Freeciv **.ruleset** and similar files
+2. **[kexx](https://github.com/frank-e/KLD/blob/master/kexx.kld "kexx.kld")** modified built-in `rexx.kld` for **.kex** and **.kml**
 4. **[kld](https://github.com/frank-e/KLD/blob/master/kld.kld "kld.kld")** extends the built-in `kld.kld` syntax highlighting
 5. **[lua](https://github.com/frank-e/KLD/blob/master/lua.kld "lua.kld")** (not only) for Freeciv **.lua** scripts
+2. **[rexx](https://github.com/frank-e/KLD/blob/master/kld.kld "rexx.kld")**  modified built-in `rexx.kld` for *Regina* and *ooRexx* 
 6. **[wasm](https://github.com/frank-e/KLD/blob/master/wasm.kld "wasm.kld")** for *Open Watcom* **.asm** files (experimental)
 
 CAVEAT: These language definition files may help in viewing or editing sources for the relevant languages with KEDIT, but are unsuited for syntax checks. Notably **lua.kld** covers only a subset of the LUA syntax, *some* levels of long comments or multi-line strings, not *all* (255) levels, this is a limitation of KEDIT's syntax highlighting.
